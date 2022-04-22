@@ -30,22 +30,14 @@ Undergraduate Software Engineer | Fronted Wed Developer | Cyber-Security and Eth
                     </p>
                     
 ### Socials
-                             
-<p align="left">
-                          
-                      <a href="https://discord.com/users/DemonWolf#0054" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.facebook.com/kabeer.ahmed.56211497" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/Kabeer-Ahmed11" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/kabeer.47" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/kabeer-ahmed-5a3baa19b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.stackoverflow.com/users/17883843/kabeer-ahmed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/Kabeer_Ahmed11" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/Kabeer-Ahmed11"><img src="https://github-readme-stats.vercel.app/api?username=Kabeer-Ahmed11&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&show_icons=true" alt="Kabeer-Ahmed11's GitHub stats" /></a><a
-                      href="http://www.github.com/Kabeer-Ahmed11"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=Kabeer-Ahmed11&stroke=ffffff&background=0f172a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/Kabeer-Ahmed11" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabeer-Ahmed11&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
+
+<p align="left"> <a href="https://discord.com/users/DemonWolf#0054" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/kabeer.ahmed.56211497" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Kabeer-Ahmed11" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/kabeer.47" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kabeer-ahmed-5a3baa19b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/17883843/kabeer-ahmed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Kabeer_Ahmed11" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Kabeer-Ahmed11"><img src="https://github-readme-stats.vercel.app/api?username=Kabeer-Ahmed11&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&show_icons=true" alt="Kabeer-Ahmed11's GitHub stats" /></a>
+
+<a href="http://www.github.com/Kabeer-Ahmed11"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kabeer-Ahmed11&stroke=ffffff&background=0f172a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/Kabeer-Ahmed11" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabeer-Ahmed11&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
