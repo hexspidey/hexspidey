@@ -7,7 +7,7 @@ Penetration Tester
 Undergraduate Software Engineer | Fronted Wed Developer | Cyber-Security and Ethical-Hacking Devotee
 
 *   🌍  I'm based in Karachi
-*   ✉️  You can contact me at [kabeerahmed19028@gmai.com](mailto:kabeerahmed19028@gmail.com)
+*   ✉️  You can contact me at [kabeerahmed19028@gmail.com](mailto:kabeerahmed19028@gmail.com)
 *   🧠  I'm learning Web Security
 ### Skills
 <p align="left">
