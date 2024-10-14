@@ -4,7 +4,7 @@ Hi 👋 My name is Kabeer Ahmed
 Penetration Tester
 ------------------
 
-Undergraduate Software Engineer | Fronted Wed Developer | Cyber-Security and Ethical-Hacking Devotee
+Software Engineer 
 
 *   🌍  I'm based in Karachi
 *   ✉️  You can contact me at [kabeerahmed19028@gmail.com](mailto:kabeerahmed19028@gmail.com)
