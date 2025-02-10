@@ -1,6 +1,6 @@
 Hi 👋 My name is Kabeer Ahmed
 =============================
-
+aka D3monWolf
 Penetration Tester
 ------------------
 
@@ -8,7 +8,7 @@ Software Engineer
 
 *   🌍  I'm based in Karachi
 *   ✉️  You can contact me at [kabeerahmed19028@gmail.com](mailto:kabeerahmed19028@gmail.com)
-*   🧠  I'm learning Web Security
+*   🧠  I'm Advancing my Cyber Skills
 ### Skills
 <p align="left">
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
